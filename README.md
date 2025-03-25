@@ -27,8 +27,8 @@ By integrating deep learning, medical imaging, and interactive AI-powered diagno
 * Additional Dependencies: Scikit-learn for evaluation metrics, Matplotlib and Seaborn for visualization, and Grad-CAM for model interpretability.
 
 ## System Architecture
+![Screenshot 2025-03-12 202121](https://github.com/user-attachments/assets/2647fe68-1928-4352-9e8d-955c84f9fc10)
 
-![arc](https://github.com/user-attachments/assets/68db7754-bc68-4c41-8f5a-0546b0a0d98a)
 
 
 
